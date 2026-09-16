@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "MADILAIT - Carton 12g (100 sachets)",
+    "price": 4000,
+    "img": "copy_A705B25E-E00F-4A62-8EA9-A4B6A7C966AC.jpeg",
+    "gallery": [
+      "copy_A705B25E-E00F-4A62-8EA9-A4B6A7C966AC.jpeg",
+      "copy_AA38B654-7162-49E0-BEA8-D8C97ED62F9A.jpeg",
+      "copy_33F174B7-E342-49DF-99A6-0275B5FC2F17.jpeg"
+    ],
+    "desc": "Carton de 100 sachets de 12g de lait en poudre MADILAIT. Idéal pour les petits déjeuners, les voyages et les pauses. Format pratique et individuel. Qualité supérieure.",
+    "details": [
+      { "label": "Format", "val": "100 sachets de 12g" },
+      { "label": "Poids total", "val": "1,2 kg" },
+      { "label": "Qualité", "val": "Supérieure" },
+      { "label": "Livraison", "val": "Dakar et région" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "MADILAIT - Carton 20g (100 sachets)",
+    "price": 7000,
+    "img": "copy_84C16D08-928E-436A-97D0-E0B6476916D9.jpeg",
+    "gallery": [
+      "copy_84C16D08-928E-436A-97D0-E0B6476916D9.jpeg",
+      "copy_4C3CF121-6DEA-4297-915D-152716591344.jpeg",
+      "copy_38AF5D57-3B1D-4C3D-95A7-E2266FE83CE4.jpeg"
+    ],
+    "desc": "Carton de 100 sachets de 20g de lait en poudre MADILAIT. Format familial idéal pour les foyers nombreux. Riche en vitamines et minéraux essentiels. Qualité constante et goût authentique.",
+    "details": [
+      { "label": "Format", "val": "100 sachets de 20g" },
+      { "label": "Poids total", "val": "2 kg" },
+      { "label": "Qualité", "val": "Supérieure" },
+      { "label": "Livraison", "val": "Dakar et région" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "MADILAIT - Carton 400g (10 sachets)",
+    "price": 12000,
+    "img": "copy_727C7A02-FE64-4B0E-B3A9-5424E973F430.jpeg",
+    "gallery": [
+      "copy_727C7A02-FE64-4B0E-B3A9-5424E973F430.jpeg",
+      "copy_031D44BE-69C7-4398-87DC-3A6B2309EB4E.jpeg",
+      "copy_3D8ABD45-C738-45CF-8C82-1BB8355D481F.jpeg"
+    ],
+    "desc": "Carton de 10 sachets de 400g de lait en poudre MADILAIT. Format économique pour les familles et les petites boutiques. Lait en poudre de première qualité, onctueux et savoureux.",
+    "details": [
+      { "label": "Format", "val": "10 sachets de 400g" },
+      { "label": "Poids total", "val": "4 kg" },
+      { "label": "Qualité", "val": "Supérieure" },
+      { "label": "Livraison", "val": "Dakar et région" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "MADILAIT - Sac 5kg",
+    "price": 12500,
+    "img": "copy_FE90BF39-6A9B-4445-89F8-4BD989D590FC.jpeg",
+    "gallery": [
+      "copy_FE90BF39-6A9B-4445-89F8-4BD989D590FC.jpeg",
+      "copy_03E0178E-E8F3-4A0A-ABEF-DFCE241B61C4.jpeg"
+    ],
+    "desc": "Sac de 5kg de lait en poudre MADILAIT. Format grossiste idéal pour les boutiques, restaurants et collectivités. Qualité constante, prix compétitif. Economique et pratique.",
+    "details": [
+      { "label": "Poids", "val": "5 kg" },
+      { "label": "Quantité min.", "val": "3 sacs" },
+      { "label": "Qualité", "val": "Supérieure" },
+      { "label": "Livraison", "val": "Dakar et région" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "MADILAIT - Sac 10kg",
+    "price": 23500,
+    "img": "C777FEFC-FC51-4FE2-A660-187E676E19E2.png",
+    "gallery": [
+      "C777FEFC-FC51-4FE2-A660-187E676E19E2.png",
+      "copy_6CF8A550-2B61-4032-B5DE-0B85AD2793EF.jpeg"
+    ],
+    "desc": "Sac de 10kg de lait en poudre MADILAIT. Le meilleur rapport qualité-prix pour les gros consommateurs. Parfait pour les grossistes, les écoles et les grandes familles.",
+    "details": [
+      { "label": "Poids", "val": "10 kg" },
+      { "label": "Quantité min.", "val": "2 sacs" },
+      { "label": "Qualité", "val": "Supérieure" },
+      { "label": "Livraison", "val": "Dakar et région" }
+    ]
+  }
+]
